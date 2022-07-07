@@ -1,0 +1,6 @@
+#map {
+  height: 100vh;
+  background-image: url("../assets/images/Map_with_locationpointer_lines.svg");
+  background-size: cover;
+  background-position: center;
+}
